@@ -1,6 +1,6 @@
 {
-
-  "name": "jc_portfolio",
+  "homepage": "https://sanjothebay.github.io/jc_react_portfolio/",
+  "name": "jc_react_portfolio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
