@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/jc_react_portfolio/static/css/main.3c6ef38f.chunk.css",
-    "main.js": "/jc_react_portfolio/static/js/main.b6c9ada0.chunk.js",
-    "main.js.map": "/jc_react_portfolio/static/js/main.b6c9ada0.chunk.js.map",
+    "main.js": "/jc_react_portfolio/static/js/main.29cbd966.chunk.js",
+    "main.js.map": "/jc_react_portfolio/static/js/main.29cbd966.chunk.js.map",
     "runtime-main.js": "/jc_react_portfolio/static/js/runtime-main.81a92f18.js",
     "runtime-main.js.map": "/jc_react_portfolio/static/js/runtime-main.81a92f18.js.map",
     "static/js/2.42168077.chunk.js": "/jc_react_portfolio/static/js/2.42168077.chunk.js",
@@ -12,11 +12,11 @@
     "static/js/2.42168077.chunk.js.LICENSE.txt": "/jc_react_portfolio/static/js/2.42168077.chunk.js.LICENSE.txt",
     "static/media/JC.390ac3dc.JPG": "/jc_react_portfolio/static/media/JC.390ac3dc.JPG",
     "static/media/JC_RODRIGUEZ_RESUME.028454c4.pdf": "/jc_react_portfolio/static/media/JC_RODRIGUEZ_RESUME.028454c4.pdf",
-    "static/media/dayplanner.81965ca1.JPG": "/jc_react_portfolio/static/media/dayplanner.81965ca1.JPG",
     "static/media/desk.e28b2abf.JPG": "/jc_react_portfolio/static/media/desk.e28b2abf.JPG",
+    "static/media/favmovieproject.eefcbfb3.JPG": "/jc_react_portfolio/static/media/favmovieproject.eefcbfb3.JPG",
+    "static/media/progressivebudget.336321f1.JPG": "/jc_react_portfolio/static/media/progressivebudget.336321f1.JPG",
     "static/media/project1.11e25020.JPG": "/jc_react_portfolio/static/media/project1.11e25020.JPG",
     "static/media/project2.0ccdf543.JPG": "/jc_react_portfolio/static/media/project2.0ccdf543.JPG",
-    "static/media/teamgen.499bbe47.JPG": "/jc_react_portfolio/static/media/teamgen.499bbe47.JPG",
     "static/media/userdirectory.5cf7a5bd.JPG": "/jc_react_portfolio/static/media/userdirectory.5cf7a5bd.JPG",
     "static/media/video.52e8933b.mp4": "/jc_react_portfolio/static/media/video.52e8933b.mp4",
     "static/media/weatherapi.32ea2f7a.JPG": "/jc_react_portfolio/static/media/weatherapi.32ea2f7a.JPG"
@@ -25,6 +25,6 @@
     "static/js/runtime-main.81a92f18.js",
     "static/js/2.42168077.chunk.js",
     "static/css/main.3c6ef38f.chunk.css",
-    "static/js/main.b6c9ada0.chunk.js"
+    "static/js/main.29cbd966.chunk.js"
   ]
 }
