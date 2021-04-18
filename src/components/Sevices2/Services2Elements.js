@@ -6,7 +6,7 @@ export const ServicesContainer = styled.div`
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  background: #010606;
+  background: white;
   @media screen and (max-width: 768px) {
     height: 1100px;
   }
@@ -38,10 +38,10 @@ export const ServicesCard = styled.div`
   flex-direction: column;
   justify-content: flex-start;
   align-items: center;
-  border-radius: 10px;
+  border-radius: 30px;
   max-height: 340px;
   padding: 30px;
-  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.2);
+  box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.2);
   transition: all 0.2s ease-in-out;
   &:hover {
     transform: scale(1.02);
@@ -58,7 +58,7 @@ export const ServicesIcon = styled.img`
 
 export const ServicesH1 = styled.h1`
   font-size: 2.5rem;
-  color: #fff;
+  color: black;
   margin-bottom: 64px;
   @media screen and (max-width: 480px) {
     font-size: 2rem;
