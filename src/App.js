@@ -6,7 +6,7 @@ import ContactmePage from "./pages/contactme";
 
 const App = () => {
   return (
-    <Router  basename={process.env.PUBLIC_URL}>
+    <Router>
       <Switch>
         <Route exact path="/" component={Home} />
         <Route exact path="/contactme" component={ContactmePage} />
