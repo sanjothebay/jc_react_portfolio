@@ -1,10 +1,16 @@
 # Porfolio
 
+Repo:
 https://github.com/sanjothebay/jc_react_portfolio
 
+netlify:
+https://jc-react-portfolio.netlify.app/
+
+githubpages :
 https://sanjothebay.github.io/jc_react_portfolio/
 
-https://jc-react-portfolio.netlify.app/
+Heroku:(Not Active / Removed )
+https://obscure-woodland-21794.herokuapp.com/
 
 
 ![image](https://user-images.githubusercontent.com/67298961/110899141-2fae0000-82c6-11eb-896d-32a98e8f5171.png)
