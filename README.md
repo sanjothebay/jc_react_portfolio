@@ -4,6 +4,8 @@ https://github.com/sanjothebay/jc_react_portfolio
 
 https://sanjothebay.github.io/jc_react_portfolio/
 
+https://jc-react-portfolio.netlify.app/
+
 
 ![image](https://user-images.githubusercontent.com/67298961/110899141-2fae0000-82c6-11eb-896d-32a98e8f5171.png)
 
@@ -22,6 +24,15 @@ https://sanjothebay.github.io/jc_react_portfolio/
 
 
 ## Instruction <a name="Instruction"></a>
+The User is able to Clcik on the link [JC's Portfolio](https://jc-react-portfolio.netlify.app/)
+Once the web page loads the user is able to see see the Title page and use the Navigation Bar and it will Scroll down or up to the Desire section.
+As the user scrolls down he is able to see the About, Skill and porfilio Sections. All these sections have a brief description.
+It also have links to the  applications that were built as well as links to the Repository. the footer at the bottom has all the detailed information so the user is able to 
+contact.  the user is also able to download The resume As well as link to the GitHub stackoverflow LinkedIn and Facebook.  there also is a section where the user is able to 
+click  I'll be able to send an email from the  contact Section of the portfolio
+
+![image](https://user-images.githubusercontent.com/67298961/117072110-99aaba80-acf5-11eb-9903-a1ace1da6752.png)
+
 
 ## Requirements
 
@@ -55,7 +66,7 @@ https://sanjothebay.github.io/jc_react_portfolio/
 
 ### Updated Portfolio
 
-Your updated site should still have all of the content it previously had:
+   Updated site should still have all of the content it previously had:
 
 * Your name
 
@@ -76,23 +87,20 @@ Your updated site should still have all of the content it previously had:
 
 #### Design
 
-As with the previous portfolio homework, "good" design is subjective. Your site should look
-"polished." Here are a few guidelines on what that means:
-
 * Mobile-first design
 
-* Choose a color palette for your site so it doesn't just look like the default bootstrap theme or an unstyled HTML site.
+* color palette for your site so it doesn't just look like the default bootstrap theme or an unstyled HTML site.
 
-* Make sure the font size is large enough to read, and that the colors don't cause eye strain.
+* font size is large enough to read, and that the colors don't cause eye strain.
 
-* If you want to go above and beyond, try using animations and react component libraries. Note 
-that this will _not_ affect your grade, but it may impact how potentials employers gauge your knowledge.
+*  react component libraries.
 
 ### React
 
-Additionally, this new portfolio should be created using React.
+This new portfolio was created using React.
+     npx create-react-app my-app
 
-At a minimum, your portfolio should include the following:
+   Portfolio include the following:
 
 * A `Header` component that appears on multiple pages
 
@@ -102,12 +110,14 @@ At a minimum, your portfolio should include the following:
 
 * A `Footer` component that appears on multiple pages
 
-* **Important**: If you use React Router, you will **NOT** be able to use the `<BrowserRouter>` component on GitHub Pages. Read the [GitHub note on client-side routing](https://create-react-app.dev/docs/deployment/#notes-on-client-side-routing) and the [React Router documentation on HashRouter](https://reactrouter.com/web/api/HashRouter) for more information.
+* **Important**: If you use React Router, you will **NOT** be able to use the `<BrowserRouter>` component on GitHub Pages. Read the [GitHub note on client-side routing]
+(https://create-react-app.dev/docs/deployment/#notes-on-client-side-routing) and the [React Router documentation on HashRouter](https://reactrouter.com/web/api/HashRouter) for 
+more information.
 
 
 ### Updated LinkedIn Profile 
 
-Make sure to update your LinkedIn Profile with the new skills you've acquired since the last time it was updated.
+Updated LinkedIn Profile with the new skills acquired since the last time it was updated.
 
 ## Getting Started <a name="Getting_Started"></a>
 
@@ -145,7 +155,22 @@ npm predeploy To run npm run build
 
 ## Components <a name="Components"></a>
 
+![image](https://user-images.githubusercontent.com/67298961/117068856-682ff000-acf1-11eb-9c3a-909f90a397b2.png)
 
+Contactme
+Footer
+Hero
+InfoSection
+Navbar
+Services
+Services2 
+sidebar
+ButtonElements
+ScrollToTop
+
+Each Component is using styled-components to Style the component. 
+
+![image](https://user-images.githubusercontent.com/67298961/117070353-3cae0500-acf3-11eb-8f18-5569e55185d7.png)
 
 
 ## Submission Video <a name="Submission_Video"></a>
