@@ -1,7 +1,7 @@
 import React from "react";
 import { FaLinkedin, FaStackOverflow, FaGithubSquare } from "react-icons/fa";
 import { animateScroll as scroll } from "react-scroll";
- import PDF from "../../pdf_download/JC_RODRIGUEZ_RESUME.pdf";
+ import PDF from "../../pdf_download/JC RODRIGUEZ RESUME.pdf";
 // import PDF from "../../../pdf_download/JC_RODRIGUEZ_RESUME.pdf";
 // import PDF from "../../../public/pdf_download/JC_RODRIGUEZ_RESUME.pdf";
 import {
